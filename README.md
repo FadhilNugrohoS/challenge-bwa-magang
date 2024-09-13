@@ -1,8 +1,10 @@
 
 <p align="center">
     <h1>
-        See ERD Project
-        <a href="https://drive.google.com/drive/folders/1_R_54fZPTvwn8PCxP6zHiJEUfb_fizj4?usp=sharing">download me !!</a>
+        See ERD Project <br>
+        <hr>
+        <a href="https://drive.google.com/drive/folders/1_R_54fZPTvwn8PCxP6zHiJEUfb_fizj4?usp=sharing">Download Me !!</a>
+        <hr>
     </h1>
 </p>
 
